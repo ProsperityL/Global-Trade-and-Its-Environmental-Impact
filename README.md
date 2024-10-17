@@ -1,1 +1,3 @@
 # Global-Trade-and-Its-Environmental-Impact
+
+In this analysis, I explore the relationship between international trade and pollution levels using data from the Basic Economic and Politics Dataset and the Environmental Indicators Dataset. Initially, I assumed that higher trade levels would correlate with increased air pollution. However, after comparing five major global trading nations, the data did not show a clear link between higher trade activity and higher pollution rates. Given the lack of an obvious correlation, I believe a more comprehensive analysis is needed. i believe we need to consider the types of goods each country manufactures, the frequency of their trade activity, and the strength of their environmental regulations before drawing further conclusions.
