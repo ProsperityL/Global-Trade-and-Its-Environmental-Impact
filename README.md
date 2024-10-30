@@ -1,7 +1,7 @@
 # Global Trade and Its Environmental Impact
 
 # Project Overview 
-This project analyzes the relationship between global trade and its environmental impact using datasets that include indicators for trade, environmental factors, and country-level attributes. The project aims to assess how trade policies and practices are linked to environmental metrics
+This project analyzes the relationship between global trade and its environmental impact using datasets that include indicators for trade, environmental factors, and country-level attributes. The project aims to assess how trade policies and practices are linked to environmental metrics.
 
 # Installation and Setup 
 
